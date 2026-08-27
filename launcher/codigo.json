@@ -1,8 +1,8 @@
 {
  "versao": "1.0.4",
  "arquivo": "codigo-1.0.4.zip",
- "sha256": "b152be61139eaf6c3db74c03ea0e51860871c429f1b47995ab40746f6b35532a",
- "tamanho": 713975,
- "publicadoEm": "2026-08-27T05:46:12.478Z",
- "notas": "teste do auto-update"
+ "sha256": "4d0871bc8e499cb7e04129d5cd12587330e68cceebe5249055b33b293d9e452c",
+ "tamanho": 849325,
+ "publicadoEm": "2026-08-27T05:53:21.398Z",
+ "notas": "logo na tela de entrada, teclas sem conflito e visual novo"
 }

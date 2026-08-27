@@ -2,7 +2,7 @@
  "packName": "COBBLEVERSE - Beto",
  "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
  "packVersion": "1.7.42+beto.1",
- "generatedAt": "2026-08-27T02:58:49.780Z",
+ "generatedAt": "2026-08-27T05:26:29.377Z",
  "minecraft": "1.21.1",
  "fabricLoader": "0.18.4",
  "javaMajor": 21,
@@ -29,6 +29,18 @@
    "licenses"
   ],
   "marker": "overrides-1.7.42-CF"
+ },
+ "keybinds": {
+  "versao": "v1",
+  "teclas": {
+   "key_key.puffish_skills.open": "key.keyboard.u",
+   "key_iris.keybind.toggleShaders": "key.keyboard.f10",
+   "key_key.cobblemon_smartphone.scanner": "key.keyboard.o",
+   "key_ftbultimine.change_shape.next": "key.keyboard.page.up",
+   "key_ftbultimine.change_shape.prev": "key.keyboard.page.down",
+   "key_keybind.sophisticatedbackpacks.sort": "key.keyboard.comma",
+   "key_keybind.sophisticatedstorage.sort": "key.keyboard.period"
+  }
  },
  "bundled": [
   {

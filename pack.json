@@ -1,7 +1,8 @@
 {
  "packName": "COBBLEVERSE - Beto",
+ "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
  "packVersion": "1.7.42+beto.1",
- "generatedAt": "2026-08-26T23:48:59.119Z",
+ "generatedAt": "2026-08-27T00:10:44.997Z",
  "minecraft": "1.21.1",
  "fabricLoader": "0.18.4",
  "javaMajor": 21,

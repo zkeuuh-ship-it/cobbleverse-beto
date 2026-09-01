@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.3",
-  "generatedAt": "2026-09-01T00:18:01.252Z",
+  "packVersion": "1.7.42+beto.2",
+  "generatedAt": "2026-09-01T00:04:14.393Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1229,15 +1229,6 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "ftbultimine-cobblemon-compat"
-    },
-    {
-      "file": "wild_battle_api-fabric-1.1.2.jar",
-      "sha1": "ca156e0cc210162f30b3a4a0d5179984a5ceb242",
-      "size": 253029,
-      "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/servidor/mods/wild_battle_api-fabric-1.1.2.jar",
-      "destino": "mods",
-      "origem": "servidor",
-      "modid": "wild_battle_api"
     }
   ]
 }

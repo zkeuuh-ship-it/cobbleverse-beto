@@ -1217,21 +1217,27 @@
       "sha1": "8821e865948c0760355b1d380610a13b3c8904e0",
       "size": 52072177,
       "url": "https://cdn.modrinth.com/data/v19DG9nW/versions/PkRUcN3J/cobblemon_battle_tower-fabric-1.10.22.jar",
-      "destino": "mods"
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "cobblemon_battle_tower"
     },
     {
       "file": "wild_battle_api-fabric-1.1.2.jar",
       "sha1": "ca156e0cc210162f30b3a4a0d5179984a5ceb242",
       "size": 253029,
       "url": "https://cdn.modrinth.com/data/v7VZE8kh/versions/GoEGm1Ea/wild_battle_api-fabric-1.1.2.jar",
-      "destino": "mods"
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "wild_battle_api"
     },
     {
       "file": "ftbultimine-cobblemon-compat-1.0.0.jar",
       "sha1": "ae7c27c6bc1a91d18be114b1628b37a109e95cfd",
       "size": 386612,
       "url": "https://cdn.modrinth.com/data/PbTAQA4c/versions/8dlppdYC/ftbultimine-cobblemon-compat-1.0.0.jar",
-      "destino": "mods"
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "ftbultimine-cobblemon-compat"
     }
   ]
 }

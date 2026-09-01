@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.2",
-  "generatedAt": "2026-09-01T00:04:14.393Z",
+  "packVersion": "1.7.42+beto.3",
+  "generatedAt": "2026-09-01T00:13:39.107Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1238,6 +1238,15 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "ftbultimine-cobblemon-compat"
+    },
+    {
+      "file": "fabric-carpet-1.21-1.4.147%2Bv240613.jar",
+      "sha1": "54f2907d83e67283d165336f26e5219d4bd36037",
+      "size": 1525027,
+      "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/servidor/mods/fabric-carpet-1.21-1.4.147%252Bv240613.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "carpet"
     }
   ]
 }

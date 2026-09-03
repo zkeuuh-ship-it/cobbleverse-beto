@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.6",
-  "generatedAt": "2026-09-03T08:54:58.794Z",
+  "packVersion": "1.7.42+beto.7",
+  "generatedAt": "2026-09-03T08:56:07.710Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1000,13 +1000,6 @@
       "sha1": "4a4849b36757a268253a3a87b4a02b60f59816a6",
       "size": 21464,
       "url": "https://cdn.modrinth.com/data/fdtm99de/versions/BEfm3cNd/nethermap-4.0.0-1.21.1.jar",
-      "destino": "mods"
-    },
-    {
-      "file": "Only%20Bottle%20Caps-1.4.0.jar",
-      "sha1": "b4bcc62a37568608cd69556a80d8ab448244ec22",
-      "size": 250921,
-      "url": "https://cdn.modrinth.com/data/tDRRddpZ/versions/xkaDeFly/Only%20Bottle%20Caps-1.4.0.jar",
       "destino": "mods"
     },
     {

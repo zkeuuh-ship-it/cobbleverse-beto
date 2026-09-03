@@ -1,8 +1,8 @@
 {
- "versao": "1.0.5",
- "arquivo": "codigo-1.0.5.zip",
- "sha256": "35cc942b04c7b43427b2d3e96d4c025f1d7eca3d3afdd657b272e14adaa57127",
- "tamanho": 849465,
- "publicadoEm": "2026-09-03T08:59:59.823Z",
- "notas": "atualiza a lista de servidores do jogo quando o endereco muda"
+ "versao": "1.0.6",
+ "arquivo": "codigo-1.0.6.zip",
+ "sha256": "834335d0c9e4cb5c6195d3656e44a1f6e9bd852dc8d8ed1f0b97737f2147837f",
+ "tamanho": 849646,
+ "publicadoEm": "2026-09-03T20:46:55.449Z",
+ "notas": "tela inicial passa a mostrar o endereco publicado, nao o do instalador"
 }

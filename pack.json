@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.8",
-  "generatedAt": "2026-09-03T08:56:29.029Z",
+  "packVersion": "1.7.42+beto.7",
+  "generatedAt": "2026-09-03T08:56:07.710Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -245,6 +245,13 @@
       "size": 633065,
       "url": "https://mediafilez.forgecdn.net/files/7213/608/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
       "destino": "mods"
+    },
+    {
+      "file": "Cobblemon 3D Poké Rods 1.0.zip",
+      "sha1": "c5a92bf0d82abba72eb3a93f6e8bd40560d1c247",
+      "size": 167546,
+      "url": "https://mediafilez.forgecdn.net/files/6060/565/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip",
+      "destino": "resourcepacks"
     },
     {
       "file": "paginatedadvancements-2.5.1.jar",
@@ -1233,14 +1240,6 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "obc"
-    },
-    {
-      "file": "Cobblemon 3D Pok├® Rods 1.0.zip",
-      "sha1": "c5a92bf0d82abba72eb3a93f6e8bd40560d1c247",
-      "size": 167546,
-      "url": "https://cdn.modrinth.com/data/7OFEgDS3/versions/L4DqwCP9/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip",
-      "destino": "resourcepacks",
-      "origem": "servidor"
     }
   ]
 }

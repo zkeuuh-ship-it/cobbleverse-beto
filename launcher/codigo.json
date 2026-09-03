@@ -1,8 +1,8 @@
 {
- "versao": "1.0.4",
- "arquivo": "codigo-1.0.4.zip",
- "sha256": "4d0871bc8e499cb7e04129d5cd12587330e68cceebe5249055b33b293d9e452c",
- "tamanho": 849325,
- "publicadoEm": "2026-08-27T05:53:21.398Z",
- "notas": "logo na tela de entrada, teclas sem conflito e visual novo"
+ "versao": "1.0.5",
+ "arquivo": "codigo-1.0.5.zip",
+ "sha256": "35cc942b04c7b43427b2d3e96d4c025f1d7eca3d3afdd657b272e14adaa57127",
+ "tamanho": 849465,
+ "publicadoEm": "2026-09-03T08:59:59.823Z",
+ "notas": "atualiza a lista de servidores do jogo quando o endereco muda"
 }

@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.8",
-  "generatedAt": "2026-09-03T21:18:32.345Z",
+  "packVersion": "1.7.42+beto.9",
+  "generatedAt": "2026-09-04T03:32:25.340Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -870,13 +870,6 @@
       "destino": "mods"
     },
     {
-      "file": "cobblemonskilltree-fabric-0.1.4.jar",
-      "sha1": "0da015fad3fea4ac09778cbc7234647fdf234378",
-      "size": 175238,
-      "url": "https://mediafilez.forgecdn.net/files/8683/978/cobblemonskilltree-fabric-0.1.4.jar",
-      "destino": "mods"
-    },
-    {
       "file": "cobblemonxpbar-fabric-1.0.5.jar",
       "sha1": "8358103452f284567ff57ad7afafa818aa1df67c",
       "size": 24012,
@@ -1240,6 +1233,15 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "obc"
+    },
+    {
+      "file": "cobblemonskilltree-fabric-2.0.1.jar",
+      "sha1": "5c663fdc090bae65f8ed2c28d776e9e00f4b942a",
+      "size": 1613078,
+      "url": "https://mediafilez.forgecdn.net/files/8802/414/cobblemonskilltree-fabric-2.0.1.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "cobblemonskilltree"
     }
   ]
 }

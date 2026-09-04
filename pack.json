@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.11",
-  "generatedAt": "2026-09-04T04:07:24.372Z",
+  "packVersion": "1.7.42+beto.12",
+  "generatedAt": "2026-09-04T04:33:00.283Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1244,6 +1244,15 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "cobblemon_qol_suite"
+    },
+    {
+      "file": "spawnnotification-fabric-1.7.3-2.3.0.jar",
+      "sha1": "9dd176d13b4fcfc23491ab1c7ad361485fa33a7a",
+      "size": 244216,
+      "url": "https://cdn.modrinth.com/data/LPuJjiQz/versions/IosXrYj8/spawnnotification-fabric-1.7.3-2.3.0.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "spawn_notification"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.10",
-  "generatedAt": "2026-09-04T04:06:59.653Z",
+  "packVersion": "1.7.42+beto.11",
+  "generatedAt": "2026-09-04T04:07:24.372Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1240,7 +1240,7 @@
       "file": "cobblemon-qol-suite-fabric-1.5.jar",
       "sha1": "428dc281fca03d4bfe311ab11e8ee9b49e30c3c0",
       "size": 1532450,
-      "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/servidor/mods/cobblemon-qol-suite-fabric-1.5.jar",
+      "url": "https://mediafilez.forgecdn.net/files/8756/744/cobblemon-qol-suite-fabric-1.5.jar",
       "destino": "mods",
       "origem": "servidor",
       "modid": "cobblemon_qol_suite"

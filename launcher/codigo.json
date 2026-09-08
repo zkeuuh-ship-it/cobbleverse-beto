@@ -1,8 +1,8 @@
 {
- "versao": "1.0.6",
- "arquivo": "codigo-1.0.6.zip",
- "sha256": "834335d0c9e4cb5c6195d3656e44a1f6e9bd852dc8d8ed1f0b97737f2147837f",
- "tamanho": 849646,
- "publicadoEm": "2026-09-03T20:46:55.449Z",
- "notas": "tela inicial passa a mostrar o endereco publicado, nao o do instalador"
+ "versao": "1.0.7",
+ "arquivo": "codigo-1.0.7.zip",
+ "sha256": "4d563c0c7796d32886a2fa786c1652d95dc994406c7dc4d330a7aa701410c043",
+ "tamanho": 885337,
+ "publicadoEm": "2026-09-08T07:58:03.755Z",
+ "notas": "corrige o aviso de atualizacao que ficava repetindo"
 }

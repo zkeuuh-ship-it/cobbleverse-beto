@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.13",
-  "generatedAt": "2026-09-08T07:57:53.881Z",
+  "packVersion": "1.7.42+beto.14",
+  "generatedAt": "2026-09-08T22:31:31.050Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1253,6 +1253,24 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "spawn_notification"
+    },
+    {
+      "file": "bettercampfirepot-1.7.3+1.21.1-fabric.jar",
+      "sha1": "ee181fb7377d58784814af3351f51550751b2329",
+      "size": 445589,
+      "url": "https://cdn.modrinth.com/data/iTqv0DeF/versions/paqSUxYb/bettercampfirepot-1.7.3%2B1.21.1-fabric.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "bettercampfirepot"
+    },
+    {
+      "file": "ironfurnacesfabric-1.21.1-1.1.0.jar",
+      "sha1": "df126b12b04df0e3b8c1f5064f8a46056b4fabb3",
+      "size": 597631,
+      "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/servidor/mods/ironfurnacesfabric-1.21.1-1.1.0.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "ironfurnaces"
     }
   ]
 }

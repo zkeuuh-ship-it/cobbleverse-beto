@@ -1,16 +1,16 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.12",
-  "generatedAt": "2026-09-04T04:33:00.283Z",
+  "packVersion": "1.7.42+beto.13",
+  "generatedAt": "2026-09-08T07:57:53.881Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
   "recommendedRamMB": 6144,
   "minRamMB": 4096,
   "server": {
-    "host": "ultra-01.roxy.net.br",
-    "port": 25646,
+    "host": "212.115.125.53",
+    "port": 35592,
     "name": "COBBLEVERSE - Beto"
   },
   "overrides": {

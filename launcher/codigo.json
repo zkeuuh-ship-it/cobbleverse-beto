@@ -1,8 +1,8 @@
 {
- "versao": "1.0.7",
- "arquivo": "codigo-1.0.7.zip",
- "sha256": "4d563c0c7796d32886a2fa786c1652d95dc994406c7dc4d330a7aa701410c043",
- "tamanho": 885337,
- "publicadoEm": "2026-09-08T07:58:03.755Z",
- "notas": "corrige o aviso de atualizacao que ficava repetindo"
+ "versao": "1.0.8",
+ "arquivo": "codigo-1.0.8.zip",
+ "sha256": "8d711cb5572e4d9e614453bff4a869db4778e6d5a18bb61e0b1077bf67f0316d",
+ "tamanho": 885719,
+ "publicadoEm": "2026-09-08T08:05:10.588Z",
+ "notas": "launcher passa a reabrir sozinho ao se atualizar"
 }

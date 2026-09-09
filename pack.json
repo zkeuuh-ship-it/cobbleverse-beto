@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.15",
-  "generatedAt": "2026-09-08T23:40:59.090Z",
+  "packVersion": "1.7.42+beto.16",
+  "generatedAt": "2026-09-09T01:48:59.999Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1273,6 +1273,15 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "mega_showdown"
+    },
+    {
+      "file": "StorageDrawers-fabric-1.21.1-13.11.4.jar",
+      "sha1": "180483e5f8360cc56a0eafe9765b81ff14920653",
+      "size": 1148425,
+      "url": "https://cdn.modrinth.com/data/guitPqEi/versions/78LmfH8Z/StorageDrawers-fabric-1.21.1-13.11.4.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "storagedrawers"
     }
   ]
 }

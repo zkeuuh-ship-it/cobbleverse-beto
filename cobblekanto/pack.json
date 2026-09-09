@@ -2,7 +2,7 @@
  "packName": "CobbleKanto - Beto",
  "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/pack.json",
  "packVersion": "0.4.0",
- "generatedAt": "2026-09-09T03:29:30.034Z",
+ "generatedAt": "2026-09-09T05:02:18.534Z",
  "minecraft": "1.21.1",
  "fabricLoader": "0.18.0",
  "javaMajor": 21,
@@ -16,7 +16,7 @@
  "overrides": {
   "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/cliente-0.4.0.zip",
   "espelhos": [],
-  "sha1": "f8cf82db62077eef2a8b087ba24780c295ba946e",
+  "sha1": "158a4f83524c68998309fb5bf0b201e55eed1f31",
   "size": 44724229,
   "include": [
    "config",
@@ -221,6 +221,13 @@
    "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633",
    "size": 95908,
    "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobblemonexpall-fabric-0.0.2.jar",
+   "sha1": "0133ed88b5ae568e683acbe870f69f2bfbfba30b",
+   "size": 54811,
+   "url": "https://cdn.modrinth.com/data/CjhzwixS/versions/rDd91lLw/cobblemonexpall-fabric-0.0.2.jar",
    "destino": "mods"
   },
   {

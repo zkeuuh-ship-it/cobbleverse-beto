@@ -1,0 +1,864 @@
+{
+ "packName": "CobbleKanto - Beto",
+ "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/pack.json",
+ "packVersion": "0.4.0",
+ "generatedAt": "2026-09-09T03:29:30.034Z",
+ "minecraft": "1.21.1",
+ "fabricLoader": "0.18.0",
+ "javaMajor": 21,
+ "recommendedRamMB": 6144,
+ "minRamMB": 4096,
+ "server": {
+  "host": "ultra-01.roxy.net.br",
+  "port": 25646,
+  "name": "CobbleKanto - Beto"
+ },
+ "overrides": {
+  "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/cliente-0.4.0.zip",
+  "espelhos": [],
+  "sha1": "f8cf82db62077eef2a8b087ba24780c295ba946e",
+  "size": 44724229,
+  "include": [
+   "config",
+   "defaultconfigs",
+   "mods",
+   "resourcepacks",
+   "shaderpacks",
+   "emotes",
+   "emojiful",
+   "fancymenu_data",
+   "cobblemon",
+   "bivrik"
+  ],
+  "incluirSeFaltar": [
+   "options.txt"
+  ],
+  "marker": "cobblekanto-0.4.0"
+ },
+ "opcoes": {
+  "versao": "v1",
+  "idioma": "pt_br",
+  "resourcePacks": [
+   "vanilla",
+   "fabric",
+   "file/Cobblemon Interface v1.4.0.zip",
+   "file/Gen 2 Charizard 1.2.0.zip",
+   "cobblemon:uniqueshinyforms",
+   "cobblemon:gyaradosjump",
+   "file/CobbleKanto Mip Fix.zip",
+   "moonlight:merged_pack",
+   "scholar:colored_books",
+   "scholar:chiseled_bookshelf_colored_books"
+  ]
+ },
+ "modsDoPacote": [
+  "cobblekanto-0.9.2.jar",
+  "concreteplusfabric-1.1-1.21.1.jar",
+  "framework-fabric-1.21.1-0.13.11.jar",
+  "ftb-library-fabric-2101.1.31.jar",
+  "ftb-quests-fabric-2101.1.24.jar",
+  "ftb-teams-fabric-2101.1.10.jar",
+  "GlitchCore-fabric-1.21.1-2.1.0.2.jar",
+  "kantonpcs-1.0.5.jar",
+  "PuzzlesLib-v21.1.50-1.21.1-Fabric.jar",
+  "TerraBlender-fabric-1.21.1-4.1.0.8.jar"
+ ],
+ "keybinds": {
+  "versao": "v1",
+  "teclas": {}
+ },
+ "bundled": [],
+ "mods": [
+  {
+   "file": "accessories_compat_layer-fabric-0.1.12+1.21.1.jar",
+   "sha1": "44acb001881c063aa15fe66a26de5fae88e6564f",
+   "size": 398321,
+   "url": "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "accessories-fabric-1.1.0-beta.53+1.21.1.jar",
+   "sha1": "fa0b11de088893bb14aff945d0e8efdee165457b",
+   "size": 1095802,
+   "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "amendments-1.21-2.0.15-fabric.jar",
+   "sha1": "94245b5c7a552a43f56fd60387142c568ba943e4",
+   "size": 1113744,
+   "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/4XziKHCP/amendments-1.21-2.0.15-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "architectury-13.0.8-fabric.jar",
+   "sha1": "e71346a43c563e5784580dd096338acfb45f49d4",
+   "size": 600915,
+   "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "athena-fabric-1.21.1-4.0.6.jar",
+   "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0",
+   "size": 88425,
+   "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "attachment-crash-suppressor-0.0.1.jar",
+   "sha1": "f5a6174ef6d8801667a957cfffae84cdb1eeed96",
+   "size": 12442,
+   "url": "https://cdn.modrinth.com/data/P78RdGrU/versions/HF21myVg/attachment-crash-suppressor-0.0.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "badgebox-fabric-1.3.0.jar",
+   "sha1": "627a4b2a43082a90e38438f6611affdec78ff4c5",
+   "size": 74534,
+   "url": "https://cdn.modrinth.com/data/8J7TR166/versions/1iJ9oDN4/badgebox-fabric-1.3.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "badpackets-fabric-0.8.2.jar",
+   "sha1": "5479129bfeaaad1ff2f8c5ebbda8a6dc7c4d7aaf",
+   "size": 55638,
+   "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+   "sha1": "534ba30ec8a7ea23048a507d02a651b6ddcaf523",
+   "size": 14850,
+   "url": "https://cdn.modrinth.com/data/MS1ZMyR7/versions/xCWQ8iLW/BetterPingDisplay-Fabric-1.21.1-1.1.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cardinal-components-api-6.1.3.jar",
+   "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
+   "size": 229645,
+   "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "chatanimation-fabric-1.21.1-1.1.3.jar",
+   "sha1": "d507430a096fff29dabe028f74a55c6081c9912f",
+   "size": 381270,
+   "url": "https://cdn.modrinth.com/data/DnNYdJsx/versions/mezhyzfP/chatanimation-fabric-1.21.1-1.1.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "chipped-fabric-1.21.1-4.0.2.jar",
+   "sha1": "add18f65d7b131e05313cd98069cb71adac3483c",
+   "size": 15016830,
+   "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/6h2mVZcb/chipped-fabric-1.21.1-4.0.2.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "chunksfadein-fabric-3.0.25-1.21.jar",
+   "sha1": "b88e7695759c456da8df1f384264f551f6b0056b",
+   "size": 496260,
+   "url": "https://cdn.modrinth.com/data/JaNmzvA8/versions/6RBmIsf2/chunksfadein-fabric-3.0.25-1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cloth-config-15.0.140-fabric.jar",
+   "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
+   "size": 1157166,
+   "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Cobblehats 1.2 - Meowth Update.zip",
+   "sha1": "3f01c71b130d6bb1a4dcc26d34f5a2f54742b8d3",
+   "size": 125412,
+   "url": "https://cdn.modrinth.com/data/frGHdTp1/versions/qGnDM4lu/Cobblehats%201.2%20-%20Meowth%20Update.zip",
+   "destino": "resourcepacks"
+  },
+  {
+   "file": "cobblehunts-1.1.2.jar",
+   "sha1": "dcbd99fc2a191258058df8127c8fcc14ebb361de",
+   "size": 380361,
+   "url": "https://cdn.modrinth.com/data/5bgqML6Z/versions/iTRyNljO/cobblehunts-1.1.2.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobbleloots-fabric-2.3.0.jar",
+   "sha1": "cde6896c0ccb1980181b83ab2484b3196d9c5d1c",
+   "size": 267234,
+   "url": "https://cdn.modrinth.com/data/kcudYghD/versions/XCKU1Qpp/cobbleloots-fabric-2.3.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Cobblemon Interface v1.4.0.zip",
+   "sha1": "ca0c182c015d28ee388a4765899674e49fdbf37d",
+   "size": 14077537,
+   "url": "https://cdn.modrinth.com/data/gfiYlQU0/versions/MvlCqFMT/Cobblemon%20Interface%20v1.4.0.zip",
+   "destino": "resourcepacks"
+  },
+  {
+   "file": "cobblemon_quests-[1.21.1]-fabric-1.2.0.jar",
+   "sha1": "fe7624abe1bf1c2995bb10653ea8c5a7609fe65a",
+   "size": 61946,
+   "url": "https://cdn.modrinth.com/data/kZgRPg5R/versions/cZ8toB2d/cobblemon_quests-%5B1.21.1%5D-fabric-1.2.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Cobblemon-fabric-1.7.3+1.21.1.jar",
+   "sha1": "f192cda3fdfec0f20d1dee1887ec1b9e77b1618c",
+   "size": 135801550,
+   "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobblemon-leaderboards-fabric-1.6.jar",
+   "sha1": "cdcf3c45850e084f125224422e9f647146ad3bed",
+   "size": 311787,
+   "url": "https://cdn.modrinth.com/data/Vb1pXlt5/versions/pEyOuM9Q/cobblemon-leaderboards-fabric-1.6.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobblemon-progress-items-4.0.0.jar",
+   "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633",
+   "size": 95908,
+   "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "CobblemonMoveInspector-fabric-1.3.0.jar",
+   "sha1": "9c33eeb67e069c4c2f363cf57d52a4645d19f1ce",
+   "size": 27781,
+   "url": "https://cdn.modrinth.com/data/MqcGBDhG/versions/s0MVfFey/CobblemonMoveInspector-fabric-1.3.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobblemonraiddens-fabric-0.11.3+1.21.1.jar",
+   "sha1": "d3a3c5634ae9821259be71dfccfd2b40d8df5410",
+   "size": 2690197,
+   "url": "https://cdn.modrinth.com/data/GebWh45l/versions/Lecb595b/cobblemonraiddens-fabric-0.11.3%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobblerun-1.1.0.jar",
+   "sha1": "9567888c30112b4dc8ab240c780b57fbf8d60bf3",
+   "size": 9201,
+   "url": "https://cdn.modrinth.com/data/f3YlFSGV/versions/Vs8iNEju/cobblerun-1.1.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cobeffectiveness-fabric-0.3.jar",
+   "sha1": "6ddc3aef5266df8c509955846e75bbd6810fdeb0",
+   "size": 94372,
+   "url": "https://cdn.modrinth.com/data/mCT9ubLg/versions/F4L9ZN4n/cobeffectiveness-fabric-0.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ComplementaryReimagined_r5.3.zip",
+   "sha1": "4dfb4278bdca478cb0a8c185ff8a3d2d1c646c86",
+   "size": 446656,
+   "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/71Hn3myZ/ComplementaryReimagined_r5.3.zip",
+   "destino": "shaderpacks"
+  },
+  {
+   "file": "Controlling-fabric-1.21.1-19.0.5.jar",
+   "sha1": "22d2407311298d0185b606aa1dd03ae33b98dff3",
+   "size": 83679,
+   "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/hGJDoW2W/Controlling-fabric-1.21.1-19.0.5.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+   "sha1": "bd27285e1d4c326dc60bd3ac97e70edf103b9bed",
+   "size": 1247692,
+   "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/wZEbqU3j/CreativeCore_FABRIC_v2.13.39_mc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "cwb-fabric-3.0.0+mc1.21.jar",
+   "sha1": "0979201d1d131a3bf0594060c58da7dcb55aded6",
+   "size": 81288,
+   "url": "https://cdn.modrinth.com/data/ETlrkaYF/versions/m350hyy8/cwb-fabric-3.0.0%2Bmc1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "daycareplus-1.4.0+1.21.1.jar",
+   "sha1": "ed79bd601aeca06e3208bb21a5b6ce155f548985",
+   "size": 652846,
+   "url": "https://cdn.modrinth.com/data/sw1l2uBq/versions/fLenXa7D/daycareplus-1.4.0%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "drippyloadingscreen_fabric_3.1.2_MC_1.21.1.jar",
+   "sha1": "4b0e76bdb6978e896923aed0421a91d16c1158fb",
+   "size": 281831,
+   "url": "https://cdn.modrinth.com/data/v3CYg2V9/versions/MGOO5xG7/drippyloadingscreen_fabric_3.1.2_MC_1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "dynamiccrosshair-9.11+1.21.1-fabric.jar",
+   "sha1": "bc409ae6b7d845f1f1b974fe8448cda540251d7b",
+   "size": 512191,
+   "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/ubTNYZuL/dynamiccrosshair-9.11%2B1.21.1-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "dynamiccrosshaircompat-4.4+1.21.1-fabric.jar",
+   "sha1": "b1319c5272e03311b23195a5e51f061e2781ded6",
+   "size": 219313,
+   "url": "https://cdn.modrinth.com/data/EwPIWPJ9/versions/9O6JgDPz/dynamiccrosshaircompat-4.4%2B1.21.1-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Emojiful-Fabric-1.21-5.2.2.jar",
+   "sha1": "2b0985fce0a4678721eefec33436092ea9c6625d",
+   "size": 298703,
+   "url": "https://cdn.modrinth.com/data/72GXx2MO/versions/9LvS0FNS/Emojiful-Fabric-1.21-5.2.2.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+   "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5",
+   "size": 863362,
+   "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "entityculling-fabric-1.10.2-mc1.21.1.jar",
+   "sha1": "7d78734241d291d2abea47ffacb4ea377cf83982",
+   "size": 1592870,
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/FX8eJJiJ/entityculling-fabric-1.10.2-mc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "everlastingutils-1.1.6.jar",
+   "sha1": "0b8a10a3c25e24a17b135d89189bcbc0c1526d94",
+   "size": 1201719,
+   "url": "https://cdn.modrinth.com/data/YG7mMy6f/versions/5TM7kH1u/everlastingutils-1.1.6.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "exposure_catalog-fabric-1.1.1.jar",
+   "sha1": "0cb6ef4a9ef2938cb3ea1d1b58cf2732829f282c",
+   "size": 160868,
+   "url": "https://cdn.modrinth.com/data/PWcQ3kcp/versions/mNhlYD22/exposure_catalog-fabric-1.1.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "exposure_expanded-fabric-1.0.1.jar",
+   "sha1": "4d3a43b3c588fa5e5af186fe4bcf128dda9ef3d3",
+   "size": 771400,
+   "url": "https://cdn.modrinth.com/data/61XQmq6p/versions/fNzxueoV/exposure_expanded-fabric-1.0.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "exposure_polaroid-fabric-1.21.1-1.1.4.jar",
+   "sha1": "26c700fa20eacb683c10f24513d5328660bc6167",
+   "size": 180043,
+   "url": "https://cdn.modrinth.com/data/WEWiqYkW/versions/UmLkH6iF/exposure_polaroid-fabric-1.21.1-1.1.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "exposure-fabric-1.21.1-1.9.16.jar",
+   "sha1": "ad9d538839da5b7c7669e51e52eb1738e83250a9",
+   "size": 1978350,
+   "url": "https://cdn.modrinth.com/data/hB899VmG/versions/ftlapnvy/exposure-fabric-1.21.1-1.9.16.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "fabric-api-0.116.12+1.21.1.jar",
+   "sha1": "90cd4212da24365fae24c0090234b053094b218b",
+   "size": 2427037,
+   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/Lwt6YYHL/fabric-api-0.116.12%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar",
+   "sha1": "b6190b247c557c493dc4204121744f289a1d1837",
+   "size": 7813444,
+   "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/2i87JpYj/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "fabrishot-1.14.1.jar",
+   "sha1": "c8afc690bb3508df7db793f37e1fe5407dba2f22",
+   "size": 51708,
+   "url": "https://cdn.modrinth.com/data/3qsfQtE9/versions/HfdXLVRy/fabrishot-1.14.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "fancymenu_fabric_3.9.1_MC_1.21.1.jar",
+   "sha1": "34abcc703e5ebe0c65d09f00940740fe968a4742",
+   "size": 25810747,
+   "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/gbCm3cEy/fancymenu_fabric_3.9.1_MC_1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "fancytoasts-fabric-1.21.1-1.4.7.jar",
+   "sha1": "6364be2060064646622fabce2972005354c09076",
+   "size": 276510,
+   "url": "https://cdn.modrinth.com/data/eUziWqPC/versions/prt36Q8I/fancytoasts-fabric-1.21.1-1.4.7.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ferritecore-7.0.3-fabric.jar",
+   "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
+   "size": 123450,
+   "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+   "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
+   "size": 633065,
+   "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "geckolib-fabric-1.21.1-4.8.4.jar",
+   "sha1": "4285fbb6222b5b49869aea8a3a2f67c086b1c8bc",
+   "size": 653722,
+   "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/3GjkJptS/geckolib-fabric-1.21.1-4.8.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Gen 2 Charizard 1.2.0.zip",
+   "sha1": "a188a5f8179e61ed361eaafa67e70b6171231b5a",
+   "size": 81078,
+   "url": "https://cdn.modrinth.com/data/5S47436b/versions/b4HIVMWa/Gen%202%20Charizard%201.2.0.zip",
+   "destino": "resourcepacks"
+  },
+  {
+   "file": "handcrafted-fabric-1.21.1-4.0.3.jar",
+   "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6",
+   "size": 7127377,
+   "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar",
+   "sha1": "ff2be016b12128fc0cd875a21a307d681edde817",
+   "size": 342770,
+   "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "immersive-hotbar-1.1.1-1.21-1.21.1.jar",
+   "sha1": "5c2a373c7ed6702bfd30b1ec307afeab19bc1128",
+   "size": 219445,
+   "url": "https://cdn.modrinth.com/data/hsPB5xMD/versions/kFNBnAdg/immersive-hotbar-1.1.1-1.21-1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ImmersiveUI-FABRIC-0.3.3+1.21.1.jar",
+   "sha1": "ec425f712f358fe97e3b80c6e3922b73ab529b17",
+   "size": 211187,
+   "url": "https://cdn.modrinth.com/data/9wv7LuMc/versions/1Qx4v8mx/ImmersiveUI-FABRIC-0.3.3%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "indium-1.0.35+mc1.21.jar",
+   "sha1": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb",
+   "size": 105000,
+   "url": "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "iris-fabric-1.8.8+mc1.21.1.jar",
+   "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00",
+   "size": 2690177,
+   "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/zsoi0dso/iris-fabric-1.8.8%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Jade-1.21.1-Fabric-15.10.5.jar",
+   "sha1": "ec3bf463b891c2b2400ed5bb01c0b3d67de4170a",
+   "size": 739009,
+   "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/5Sbkzz4O/Jade-1.21.1-Fabric-15.10.5.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "journeymap-fabric-1.21.1-6.0.0-beta.81.jar",
+   "sha1": "65e3374be2e7d43244ef61927ac173faa447471f",
+   "size": 4131759,
+   "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/5obLspwq/journeymap-fabric-1.21.1-6.0.0-beta.81.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantoblocks-1.1.0.jar",
+   "sha1": "7250a86c41b7fd57c8646462a3db5c7ad853e886",
+   "size": 1460753,
+   "url": "https://cdn.modrinth.com/data/O69n76AH/versions/p1Xx7EAP/kantoblocks-1.1.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantoitems-0.1.1.jar",
+   "sha1": "e126f2720565fe0977c0f7b2c6d6ad60151f3139",
+   "size": 68598,
+   "url": "https://cdn.modrinth.com/data/gxH5bPKU/versions/zWZOhn30/kantoitems-0.1.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantomodels-1.3.5.jar",
+   "sha1": "6cd18bd935e687bb3c1aa69fb1ca9792b22d6be8",
+   "size": 1279627,
+   "url": "https://cdn.modrinth.com/data/TlBGIutm/versions/R5qDLKDt/kantomodels-1.3.5.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantospawners-0.0.4.jar",
+   "sha1": "e7f57dce74a448f4e181de54d31cc8b29c0364a5",
+   "size": 127436,
+   "url": "https://cdn.modrinth.com/data/nMbGdRyw/versions/n3cXFyXw/kantospawners-0.0.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantostarters-0.0.4.jar",
+   "sha1": "e24c5d8b7fff78ec4ee64dccda4c0a1a94060e71",
+   "size": 120354,
+   "url": "https://cdn.modrinth.com/data/BCTdX8Wm/versions/7AjfD60B/kantostarters-0.0.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "kantoteleports-0.1.0.jar",
+   "sha1": "8c118c1944075f985802cb40207d683a68cecc0e",
+   "size": 95759,
+   "url": "https://cdn.modrinth.com/data/OyzRRBl5/versions/paIvSgIR/kantoteleports-0.1.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
+   "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0",
+   "size": 786695,
+   "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Ksyxis-1.4.3.jar",
+   "sha1": "6f4b2ea7827da8136bdf436457a2ba3fcdb2120e",
+   "size": 26968,
+   "url": "https://cdn.modrinth.com/data/2ecVyZ49/versions/kL32PN9Q/Ksyxis-1.4.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "lithium-fabric-0.15.3+mc1.21.1.jar",
+   "sha1": "c4a1c2b6de9915ac77ae46a005509d4acf09535d",
+   "size": 797398,
+   "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XQJtuOTA/lithium-fabric-0.15.3%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "lost_lore-fabric-2.2.0.jar",
+   "sha1": "320dfbde5104cea07dfd00286cb1908343fbda59",
+   "size": 4148998,
+   "url": "https://cdn.modrinth.com/data/49cNEVjn/versions/b9YS2CZF/lost_lore-fabric-2.2.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "lucky-block-cobblemon-0.1.8.jar",
+   "sha1": "ccd0777ad8a2ade4db6955c90d6fda88d54f41e4",
+   "size": 381026,
+   "url": "https://cdn.modrinth.com/data/DAMBDZ9M/versions/1rHu13ZB/lucky-block-cobblemon-0.1.8.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+   "sha1": "2367e5972a8ab30cc4f764e6ec98841e3eaa341a",
+   "size": 1790000,
+   "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BgPUaaiV/mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "mega_showdown-fabric-1.8.4+1.7.3+1.21.1-hotfix-hotfix.jar",
+   "sha1": "9a459e95ddf397fa0c1a4193b58ce888bc5a4f5f",
+   "size": 17212693,
+   "url": "https://cdn.modrinth.com/data/SszvX85I/versions/7UIW15Xn/mega_showdown-fabric-1.8.4%2B1.7.3%2B1.21.1-hotfix-hotfix.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "melody_fabric_1.0.10_MC_1.21.jar",
+   "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c",
+   "size": 188035,
+   "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "minecraft-cursor-fabric-3.11.3+1.21.1.jar",
+   "sha1": "1391a296bba14d33ff24faf11c948c3968b7c6ac",
+   "size": 295354,
+   "url": "https://cdn.modrinth.com/data/o5fhgLeQ/versions/F7TTv9rc/minecraft-cursor-fabric-3.11.3%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+   "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
+   "size": 471258,
+   "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "modmenu-11.0.4.jar",
+   "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a",
+   "size": 973059,
+   "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "moonlight-fabric-1.21.1-3.0.14.jar",
+   "sha1": "939c686a02ef0eefc9468f37e47155599312ceb8",
+   "size": 1616457,
+   "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/T0ihXBHE/moonlight-fabric-1.21.1-3.0.14.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "MoreCobblemonTweaks-fabric-1.3.3.jar",
+   "sha1": "1c1ce65f40b9409c209608680060866c2aaa1eb9",
+   "size": 137626,
+   "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/1KKV0SvS/MoreCobblemonTweaks-fabric-1.3.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "MouseTweaks-fabric-mc1.21-2.26.jar",
+   "sha1": "ee81af33a5606ef2cd057e075833d7c69836c210",
+   "size": 75984,
+   "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "mru-1.0.19+LTS+1.21.1+fabric.jar",
+   "sha1": "c29a7039ed574bb77f36b13bc8305537038851d8",
+   "size": 244663,
+   "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/hXVm1N3M/mru-1.0.19%2BLTS%2B1.21.1%2Bfabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "MysticMons_v3.2.1.zip",
+   "sha1": "07144e890edf13520d4317a5439315344cd53d52",
+   "size": 1268389,
+   "url": "https://cdn.modrinth.com/data/TiFXQSAQ/versions/n1gBFmIp/MysticMons_v3.2.1.zip",
+   "destino": "resourcepacks"
+  },
+  {
+   "file": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+   "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19",
+   "size": 309410,
+   "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/D8K0KJXM/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "OctoLib-FABRIC-0.6.2+1.21.jar",
+   "sha1": "e18bf47209c43d2eff882fd906f2cafd887b7378",
+   "size": 543254,
+   "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/Sj6w7O0I/OctoLib-FABRIC-0.6.2%2B1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "owo-lib-0.12.15.4+1.21.jar",
+   "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
+   "size": 1183559,
+   "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+   "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
+   "size": 46623,
+   "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "placeholder-api-2.4.2+1.21.jar",
+   "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+   "size": 232325,
+   "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "pokebike-fabric-2.0.1.jar",
+   "sha1": "b3112ee7cb6c02af8f588bb45202174a510619c6",
+   "size": 787060,
+   "url": "https://cdn.modrinth.com/data/8eqU62OI/versions/pnEiouxq/pokebike-fabric-2.0.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "polymer-bundled-0.9.19+1.21.1.jar",
+   "sha1": "15a58f43a672ed486bee4f7983ae8ff566a6b5e7",
+   "size": 1705944,
+   "url": "https://cdn.modrinth.com/data/xGdtZczs/versions/xqZ9fctS/polymer-bundled-0.9.19%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+   "sha1": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+   "size": 81067,
+   "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "resourcefullib-fabric-1.21-3.0.12.jar",
+   "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
+   "size": 485586,
+   "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "sceneblocks-0.2.4.jar",
+   "sha1": "d8b37f84cac1ca73214703d8e81d1cd1ab8496ac",
+   "size": 384431,
+   "url": "https://cdn.modrinth.com/data/xjdeFxEb/versions/aFf5vFEe/sceneblocks-0.2.4.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "scholar-fabric-1.21.1-1.1.16.jar",
+   "sha1": "de9c43101d856700a36f2c85c7dc559bb015171a",
+   "size": 536565,
+   "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/vlbNrseC/scholar-fabric-1.21.1-1.1.16.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Searchables-fabric-1.21.1-1.0.2.jar",
+   "sha1": "2777db0b967e80e0659053154f32f14a0e99a7a7",
+   "size": 79531,
+   "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRdr8Bg3/Searchables-fabric-1.21.1-1.0.2.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "ShoulderSurfing-Fabric-1.21.1-4.22.12.jar",
+   "sha1": "4376e049a7b3b78d60d9ae6b30228ed8b818b5b2",
+   "size": 275248,
+   "url": "https://cdn.modrinth.com/data/kepjj2sy/versions/gpBSYtcz/ShoulderSurfing-Fabric-1.21.1-4.22.12.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "simplehats-fabric-1.21.1-0.4.0.jar",
+   "sha1": "f5ccce6c497bf8376b2c56f04d5e14c52bb72cb1",
+   "size": 1410902,
+   "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/nV0q5j3l/simplehats-fabric-1.21.1-0.4.0.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
+   "sha1": "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+   "size": 373661,
+   "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
+   "sha1": "928a2598178c3a58b0638bab842f467d2e49251a",
+   "size": 1297761,
+   "url": "https://cdn.modrinth.com/data/AANobbMI/versions/u1OEbNKx/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "sounds-2.4.22+lts+1.21.1-fabric.jar",
+   "sha1": "d6cd1066115fc7e674d8f6a6250cbc5cfabba746",
+   "size": 8137802,
+   "url": "https://cdn.modrinth.com/data/ZouiUX7t/versions/ZpG2rY0c/sounds-2.4.22%2Blts%2B1.21.1-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "spark-1.10.109-fabric.jar",
+   "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
+   "size": 3609981,
+   "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Stfu-2.9.1-1.21.1.jar",
+   "sha1": "a6489ad62ca9e1a40705cbd668b5496802feeaf9",
+   "size": 101791,
+   "url": "https://cdn.modrinth.com/data/Rg9WdvvR/versions/TaHYHWoM/Stfu-2.9.1-1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "Stoneworks-v21.1.0-1.21.1-Fabric.jar",
+   "sha1": "4213f967f906ecf460837050b71517d5857c6f9f",
+   "size": 1993392,
+   "url": "https://cdn.modrinth.com/data/FzyTKtVF/versions/62fUqsGs/Stoneworks-v21.1.0-1.21.1-Fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+   "sha1": "0091085edb9435f6eefc2ff562fcc8cffbc05981",
+   "size": 616830,
+   "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/blDCgrqh/supermartijn642corelib-1.1.21-fabric-mc1.21.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "supplementaries-fabric-1.21.1-3.6.5.jar",
+   "sha1": "e14171cd9dbe886676877eea83f59fd8c75707b6",
+   "size": 13168045,
+   "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/jeSbi9B9/supplementaries-fabric-1.21.1-3.6.5.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "terracotta-stairs-1.1.jar",
+   "sha1": "0adc4466a0373961c5192a519781e6cb2ece8e29",
+   "size": 246693,
+   "url": "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "tmcraft-1.4.18+1.7.3.jar",
+   "sha1": "f423155efb2a99370fe838a6603c5f33c947946e",
+   "size": 3360417,
+   "url": "https://cdn.modrinth.com/data/HU6mkUZs/versions/RYBI5bnM/tmcraft-1.4.18%2B1.7.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "travelersbackpack-fabric-1.21.1-10.1.36.jar",
+   "sha1": "25d992771a8cd20bd1cce9edd0e1136b3c462553",
+   "size": 1498971,
+   "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/ODmeRFc0/travelersbackpack-fabric-1.21.1-10.1.36.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "voicechat-fabric-1.21.1-2.6.18.jar",
+   "sha1": "80042feae19bef1ce5c95341a027da489fb74c4d",
+   "size": 5353920,
+   "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/RMvAyxuK/voicechat-fabric-1.21.1-2.6.18.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "wakes-0.4.1+1.21.1.jar",
+   "sha1": "c4f4d09a4b9362bcc952f370ce8c8b44d662dc42",
+   "size": 268435,
+   "url": "https://cdn.modrinth.com/data/dlNu0RQY/versions/WuY7eJX9/wakes-0.4.1%2B1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "worldedit-mod-7.3.8.jar",
+   "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+   "size": 6222854,
+   "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "wraith-waystones-3.3.4+mc1.21.1.jar",
+   "sha1": "9e9caa7187a37a76a75ee442c75ad9f3886f4e80",
+   "size": 445684,
+   "url": "https://cdn.modrinth.com/data/sTZr7NVo/versions/LUSqgrjd/wraith-waystones-3.3.4%2Bmc1.21.1.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+   "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
+   "size": 1131265,
+   "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "zamega-fabric-1.7.3.jar",
+   "sha1": "cefe9c25fc69f5c5da95a89225f7740377b3e58c",
+   "size": 2387420,
+   "url": "https://cdn.modrinth.com/data/2V1Y86sc/versions/x5u68zHH/zamega-fabric-1.7.3.jar",
+   "destino": "mods"
+  },
+  {
+   "file": "zoomify-2.15.2+1.21.1.jar",
+   "sha1": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6",
+   "size": 872937,
+   "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar",
+   "destino": "mods"
+  }
+ ]
+}

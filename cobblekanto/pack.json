@@ -2,7 +2,7 @@
  "packName": "CobbleKanto - Beto",
  "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/pack.json",
  "packVersion": "0.4.0",
- "generatedAt": "2026-09-09T05:02:18.534Z",
+ "generatedAt": "2026-09-09T05:06:23.360Z",
  "minecraft": "1.21.1",
  "fabricLoader": "0.18.0",
  "javaMajor": 21,
@@ -16,7 +16,7 @@
  "overrides": {
   "url": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/cobblekanto/cliente-0.4.0.zip",
   "espelhos": [],
-  "sha1": "158a4f83524c68998309fb5bf0b201e55eed1f31",
+  "sha1": "d42418140d3c8a14b8e2c1f66afeb1d41c796bae",
   "size": 44724229,
   "include": [
    "config",
@@ -483,10 +483,10 @@
    "destino": "mods"
   },
   {
-   "file": "journeymap-fabric-1.21.1-6.0.0-beta.81.jar",
-   "sha1": "65e3374be2e7d43244ef61927ac173faa447471f",
-   "size": 4131759,
-   "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/5obLspwq/journeymap-fabric-1.21.1-6.0.0-beta.81.jar",
+   "file": "journeymap-fabric-1.21.1-6.0.7.jar",
+   "sha1": "b1b6c6f1533c955e5a803b24d90c5f249a0a90cc",
+   "size": 4330400,
+   "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/R1escxHM/journeymap-fabric-1.21.1-6.0.7.jar",
    "destino": "mods"
   },
   {

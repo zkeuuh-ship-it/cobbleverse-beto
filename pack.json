@@ -1,8 +1,8 @@
 {
   "packName": "COBBLEVERSE - Beto",
   "manifestUrl": "https://raw.githubusercontent.com/zkeuuh-ship-it/cobbleverse-beto/main/pack.json",
-  "packVersion": "1.7.42+beto.16",
-  "generatedAt": "2026-09-09T01:48:59.999Z",
+  "packVersion": "1.7.42+beto.17",
+  "generatedAt": "2026-09-12T01:20:11.907Z",
   "minecraft": "1.21.1",
   "fabricLoader": "0.18.4",
   "javaMajor": 21,
@@ -1282,6 +1282,15 @@
       "destino": "mods",
       "origem": "servidor",
       "modid": "storagedrawers"
+    },
+    {
+      "file": "upgrader-fabric-1.2.0+1.21.1.jar",
+      "sha1": "907a35ee70f830cc641f9dc5dde14abf7abf051b",
+      "size": 98633,
+      "url": "https://cdn.modrinth.com/data/UQgc9Wcb/versions/TSHz3weS/upgrader-fabric-1.2.0%2B1.21.1.jar",
+      "destino": "mods",
+      "origem": "servidor",
+      "modid": "upgrader"
     }
   ]
 }
